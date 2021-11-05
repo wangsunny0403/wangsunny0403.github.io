@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 網頁技術交流
+title: 走在前端的道路上
 subtitle: ''
 description: ''
 keywords:
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: apollo
+theme: quiet
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
