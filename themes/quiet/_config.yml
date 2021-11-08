@@ -14,18 +14,18 @@ web_description: 描述
 # 导航名称
 menus_title:
   home: HOME
-  archive: ARCHIVE
+  # archive: ARCHIVE
   categories: CATEGORIES
   tags: TAGS
-  links: LINKS
+  # links: LINKS
   about: ABOUT
 # 导航 （不建议修改）
 menus:
   home: /
-  archive: /archives
+  # archive: /archives
   categories: /categories
   tags: /tags
-  links: /links
+  # links: /links
   about: /about
   
 # logo
@@ -35,9 +35,9 @@ icon: /image/favicon.ico
 # 每个页面上面的图表
 topIcon:
   homeIcon: "/image/logo.png"
-  archivesIcon: "https://cdn.jsdelivr.net/gh/duogongneng/MyBlogImg/imgicon-remixicon.svg"
+  # archivesIcon: "https://cdn.jsdelivr.net/gh/duogongneng/MyBlogImg/imgicon-remixicon.svg"
   tagIcon: "https://cdn.jsdelivr.net/gh/duogongneng/MyBlogImg/imgtags.svg"
-  linksIcon: "https://cdn.jsdelivr.net/gh/duogongneng/MyBlogImg/imga20r7-cftji.svg"
+  # linksIcon: "https://cdn.jsdelivr.net/gh/duogongneng/MyBlogImg/imga20r7-cftji.svg"
   categoriesIcon: "https://cdn.jsdelivr.net/gh/duogongneng/MyBlogImg/imgblogmyCategory.svg"
   
 # 标签页显示多少个标签
