@@ -1,16 +1,16 @@
 # 网站标题
-title: Hexo主题-Quiet主题-Hexo扁平化主题安装
+title: 網頁製作，你不可不知道的事
 # 网站标题后缀
-suffix: Quiet
+# suffix: Quiet
 # 作者名称(会显示在首页文章下面)
-author: CHANGEQ
+author: Sunny
 # 首页简介（显示在首页顶部Logo的那句话）
-home_describe: A COLLEGE STUDENT WITH IDEALS AND BELIEFS.
+# home_describe: A COLLEGE STUDENT WITH IDEALS AND BELIEFS.
 # 网站关键字
-keyword: hexo主题,hexo扁平化主题,Quiet主题
+keyword: 網頁設計,HTML,CSS,Vue,ElemenuUI,前端,前端設計師
 is_article_img: false  #false是否开启文章背景图显示(随机图片)
 # 网站描述
-web_description: 描述
+web_description: 相信很多人在製作網頁的時候，可能會遇到與我相同的問題，網站會分享我在製作時所遇到的網頁設計及前端問題
 # 导航名称
 menus_title:
   home: HOME
@@ -55,16 +55,16 @@ bottomIcon:
     #图标    
     iconLink: 'https://cdn.jsdelivr.net/gh/duogongneng/MyBlogImg/imggithub.png',
     #跳转链接    
-    toUrl: 'https://github.com/qiaobug'
+    toUrl: 'https://github.com/wangsunny0403'
   }
 # 友情链接
-linksList:
-  - {
-    title: '乔越博客',
-    intro: '收藏回忆与分享技术的地方',
-    link: 'https://www.79bk.cn/',
-    image: 'https://cdn.jsdelivr.net/gh/duogongneng/MyBlogImg/imgIMG_7327.jpeg'
-  }
+# linksList:
+#   - {
+#     title: '乔越博客',
+#     intro: '收藏回忆与分享技术的地方',
+#     link: 'https://www.79bk.cn/',
+#     image: 'https://cdn.jsdelivr.net/gh/duogongneng/MyBlogImg/imgIMG_7327.jpeg'
+#   }
 # 文字内点击图片放大相关配置
 picture:
   # 蒙版的颜色也就是 打开图片背景 显示的颜色
