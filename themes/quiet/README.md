@@ -74,7 +74,7 @@ prismjs:
   tab_replace: ''
 ```
 
-#### 🔧标签页
+#### 🔧標籤页
 
 进入根目录下的`source`文件夹下创建`tags`文件夹新建`index.md`文件
 
@@ -177,7 +177,7 @@ cover: 'https://cdn.jsdelivr.net/gh/duogongneng/MyBlogImg/imgQuietView.png'
 
 `categories`：分类（最好只写一个）
 
-`tags`：标签可以多个
+`tags`：標籤可以多个
 
 `excerpt`：描述
 

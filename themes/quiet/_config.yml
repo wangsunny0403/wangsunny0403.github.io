@@ -13,12 +13,12 @@ is_article_img: false  #false是否开启文章背景图显示(随机图片)
 web_description: 相信很多人在製作網頁的時候，可能會遇到與我相同的問題，網站會分享我在製作時所遇到的網頁設計及前端問題
 # 导航名称
 menus_title:
-  home: HOME
+  home: 首頁
   # archive: ARCHIVE
-  categories: CATEGORIES
-  tags: TAGS
+  categories: 文章分類
+  tags: 標籤
   # links: LINKS
-  about: ABOUT
+  about: 關於我
 # 导航 （不建议修改）
 menus:
   home: /
@@ -30,7 +30,7 @@ menus:
   
 # logo
 logo: /image/logo.png
-# 网页标签上那个小图标 一定要用本地存储
+# 网页標籤上那个小图标 一定要用本地存储
 icon: /image/favicon.ico
 # 每个页面上面的图表
 topIcon:
@@ -40,7 +40,7 @@ topIcon:
   # linksIcon: "https://cdn.jsdelivr.net/gh/duogongneng/MyBlogImg/imga20r7-cftji.svg"
   categoriesIcon: "https://cdn.jsdelivr.net/gh/duogongneng/MyBlogImg/imgblogmyCategory.svg"
   
-# 标签页显示多少个标签
+# 標籤页显示多少个標籤
 tagsNum: 1000
 # 网页访问统计
 web_analytics:  
