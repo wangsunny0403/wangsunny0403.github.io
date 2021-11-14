@@ -3,7 +3,7 @@
 
 	<head>
 		
-<title>網頁製作，你不可不知道的事-</title>
+<title>個人簡介-</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -37,7 +37,7 @@
 
 	<body>
 		
-<link rel="stylesheet" href="/css/home.css">
+<link rel="stylesheet" href="/css/about.css">
 
 
 <link rel="stylesheet" href="/css/header.css">
@@ -53,13 +53,13 @@
 				<ul>
 					
 						
-							<li class="select">
-								<a href="/">
-									首頁
-								</a>
-								<span class="dot"></span>
-							</li>
-							
+								<li>
+									<a href="/">
+										首頁
+									</a>
+									<span class="dot"></span>
+								</li>
+								
 									
 						
 								<li>
@@ -80,13 +80,13 @@
 								
 									
 						
-								<li>
-									<a href="/about">
-										關於我
-									</a>
-									<span class="dot"></span>
-								</li>
-								
+							<li class="select">
+								<a href="/about">
+									關於我
+								</a>
+								<span class="dot"></span>
+							</li>
+							
 									
 				</ul>
 			</div>
@@ -224,51 +224,30 @@
 		<script>
 			$(function () { $(window).scroll(function () { if ($(document).scrollTop() > 100) { $(".header-top").removeClass("header-move2"); $('.header-top').addClass('header-move1') } else { $(".header-top").removeClass("header-move1"); $('.header-top').addClass('header-move2') } }) });
 		</script>
+
+<link rel="stylesheet" href="/css/atom-one-dark.css">
+
 <div class="header-bg">
-	<div class="bg-content">
-		<span>
-			<img class="site-logo" src="/image/logo.png" alt="Q">
-		</span>
-		<h2>
-			
-		</h2>
-	</div>
-</div>
-<div class="main">
-	<div class="feed">
-		
-			<div class="feed-display">
-				<a href="/2021/11/14/vue-input-limit/">
-					<h2 class="feed-title">
-						在Vue裡實現input輸入框字數限制
-					</h2>
-					
-						<img src="https://cdn.jsdelivr.net/gh/duogongneng/MyBlogImg/imgQuietView.png" alt="Quiet">
-						
-				</a>
-				<div class="feed-meat">
-					<div class="meat-info">
-						<div class="info-auth">
-							<a href="">
-								Sunny
-							</a>
-						</div>
-						<div class="info-data">
-							2021-11-14
-						</div>
-					</div>
-					<div class="meat-type"></div>
-				</div>
-			</div>
-			
-	</div>
-</div>
-<div class="change-page">
-	
-			
+    <div class="bg-content">
+        <img src="/image/logo.png" alt="Q">
+        <h1> Sunny
+            <span>是一名網頁設計師，正在踏入前端的歷程。</span>
+        </h1>
+    </div>
 </div>
 
-<script>$(function () { $('.feed').addClass('move'); })</script>
+<div class="article-content">
+    
+<link rel="stylesheet" href="/css/page_cente.css">
+
+    <div id="article" class="content">
+        
+    </div>
+</div>
+
+<script>
+    $(function () { $('.article-content').addClass('content-move') })
+</script>
     
 		
 <link rel="stylesheet" href="/css/food.css">

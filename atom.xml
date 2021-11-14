@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>網頁技術交流</title>
+  <title>網頁製作，你不可不知道的事</title>
   
   
   <link href="https://wangsunny0403.github.io/atom.xml" rel="self"/>
   
   <link href="https://wangsunny0403.github.io/"/>
-  <updated>2021-10-24T03:38:24.935Z</updated>
+  <updated>2021-11-14T06:33:21.451Z</updated>
   <id>https://wangsunny0403.github.io/</id>
   
   <author>
@@ -17,22 +17,23 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://wangsunny0403.github.io/2021/10/24/hello-world/"/>
-    <id>https://wangsunny0403.github.io/2021/10/24/hello-world/</id>
-    <published>2021-10-24T03:38:24.935Z</published>
-    <updated>2021-10-24T03:38:24.935Z</updated>
+    <title>在Vue裡實現input輸入框字數限制</title>
+    <link href="https://wangsunny0403.github.io/2021/11/14/vue-input-limit/"/>
+    <id>https://wangsunny0403.github.io/2021/11/14/vue-input-limit/</id>
+    <published>2021-11-14T02:33:36.000Z</published>
+    <updated>2021-11-14T06:33:21.451Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>在開發過程中，會遇到輸入框字數限制的設定，像是標題、內容….等等，並在下方提示使用者目前輸入字元字數，可以避免使用者已經超過字數限制，無法再輸入的時產生疑惑，以下是我的寫法，如果有更好的建議及寫法，歡迎提出討論唷～</p><div style="margin:15px 0">  <img alt="實現input輸入框字數限制程式碼" src="/images/vue-input-limit-code.jpg"></div><div style="margin:15px 0">  <img alt="實現input輸入框字數限制預覽圖" src="/images/vue-input-limit-result.png"></div><p>詳細程式碼：<a href="https://codepen.io/sunny0403/pen/QWMZgwR?editors=1010" target="_blank">CodePen</a></p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
+    <summary type="html">在Vue裡實現input輸入框字數限制，下方提示顯示輸入字元</summary>
     
     
     
+    <category term="Vue" scheme="https://wangsunny0403.github.io/categories/Vue/"/>
+    
+    
+    <category term="Vue" scheme="https://wangsunny0403.github.io/tags/Vue/"/>
     
   </entry>
   
