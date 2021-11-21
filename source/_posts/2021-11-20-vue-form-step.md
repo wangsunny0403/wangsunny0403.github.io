@@ -1,7 +1,7 @@
 ---
 title: 用Vue製作多步驟表單
 categories: Vue
-tags: Vue
+tags: Vue, form
 # excerpt: 在Vue裡實現input輸入框字數限制，下方提示顯示輸入字元
 date: 2021-11-20
 # cover: '/images/vue-input-limit-cover.jpg' 
