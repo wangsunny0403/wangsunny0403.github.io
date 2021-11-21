@@ -2,9 +2,9 @@
 title: 在Vue裡實現input輸入框字數限制
 categories: Vue
 tags: Vue
-excerpt: 在Vue裡實現input輸入框字數限制，下方提示顯示輸入字元
-date: 2021-11-14 10:33:36
-cover: '/images/vue-input-limit-cover.jpg' 
+# excerpt: 在Vue裡實現input輸入框字數限制，下方提示顯示輸入字元
+date: 2021-11-14
+# cover: '/images/vue-input-limit-cover.jpg' 
 # title：文章标题
 # categories：分类（最好只写一个）
 # tags：标签可以多个
