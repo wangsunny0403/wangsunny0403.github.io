@@ -14,6 +14,7 @@ date: 2021-11-25
 # date：创建日期
 # cover：缩略图（你不填就用默认的了）
 ---
+<div class="page-content">
   在製作管理端時，很常遇到需要排序的功能，以下要介紹使用「vue-draggable-next」套件製作拖曳排序功能。
   <div style="margin:15px 0">
     <img alt="用Vue製作拖拽排序" src="/images/2021-11-25-vue-drag-and-drop.png">
@@ -213,3 +214,4 @@ date: 2021-11-25
   <p>這樣就完成了拖曳排序的功能囉～完整套件資訊可以到官方<a href="https://github.com/anish2690/vue-draggable-next" target="_blank">Github</a>查看</p>
   <p>以上是我的作法，如果有任何的建議或疑問，歡迎下方留言唷～</p>
 
+</div>
